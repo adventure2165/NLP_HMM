@@ -1,6 +1,8 @@
 Hidden Markov Model & Viterbi Algorithm
 ========
-# 1. Hidden Markov Model을 이용하여 문장에 다음에 특정 태그가 등장할지에 대해서 여부를 학습하고 예측하는 Code
+# 1. Hidden Markov Model
+Hidden Markov Model을 이용하여 문장에 다음에 특정 태그가 등장할지에 대해서 여부를 학습하고 예측하는 Code
+
 사용한 데이터는 출처를 공개할 수 없는 관계로 업로드 하지 아니하였음.
 
 # 2. 비터비 알고리즘 구현
